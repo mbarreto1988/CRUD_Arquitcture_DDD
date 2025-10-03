@@ -1,1 +1,28 @@
-﻿
+﻿# Construcciones binarias y objetos
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.useros
+*.config.user
+
+# Paquetes NuGet
+[Pp]ackages/
+*.nupkg
+.nuget/nuget/
+.vs/
+
+# Caché y archivos generados por Visual Studio y .NET
+**/*.tmp
+**/*.log
+**/*.bak
+**/*~
+~$*
+*.dbmdl
+.vs/
+.history/
